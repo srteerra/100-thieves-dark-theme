@@ -2,6 +2,7 @@
     "name": "100-thieves-dark-theme",
     "displayName": "100 Thieves Dark Theme",
     "description": "This is a fan theme based on 100 Thieves design.",
+    "license": "MIT",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.67.0"

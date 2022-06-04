@@ -10,9 +10,16 @@ This is a fan theme based on 100 Thieves design.
 
 #
 
-Some pictures on code
+Some pictures on code.
 
+Menus...
+![HTML](/screenshots/menu.png?raw=true "MENU styling")
+
+Coding on HTML files...
 ![HTML](/screenshots/html.png?raw=true "HTML styling")
+
+Coding on JS files...
+![HTML](/screenshots/javascript.png?raw=true "JS styling")
 
 #
 
