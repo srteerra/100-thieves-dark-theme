@@ -3,7 +3,7 @@
 
 This is a fan theme based on 100 Thieves design.
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/srteerra/100-thieves-dark-theme/LICENSE)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/srteerra/100-thieves-dark-theme/blob/master/LICENSE.md)
 ![](https://img.shields.io/github/stars/srteerra/100-thieves-dark-theme)
 ![](https://img.shields.io/github/forks/srteerra/100-thieves-dark-theme)
 
@@ -11,6 +11,9 @@ This is a fan theme based on 100 Thieves design.
 #
 
 Some pictures on code.
+
+First look...
+![HTML](/screenshots/first.png?raw=true "Start styling")
 
 Menus...
 ![HTML](/screenshots/menu.png?raw=true "MENU styling")
@@ -24,3 +27,4 @@ Coding on JS files...
 #
 
 Feel free forking this repo and making your own version.
+And give me a star! <3
