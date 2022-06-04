@@ -1,13 +1,19 @@
-# README
-## This is the README for your extension "100-thieves-dark-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# 100 Thieves theme
+## Dark version v1
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This is a fan theme based on 100 Thieves design.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/srteerra/100-thieves-dark-theme/LICENSEs)
+![](https://img.shields.io/github/stars/srteerra/100-thieves-dark-theme)
+![](https://img.shields.io/github/forks/srteerra/100-thieves-dark-theme)
 
-**Enjoy!**
+
+#
+
+Some pictures on code
+
+![HTML](/screenshots/html.png?raw=true "HTML styling")
+
+#
+
+Feel free forking this repo and making your own version.
