@@ -3,7 +3,7 @@
 
 This is a fan theme based on 100 Thieves design.
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/srteerra/100-thieves-dark-theme/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/srteerra/100-thieves-dark-theme/LICENSE)
 ![](https://img.shields.io/github/stars/srteerra/100-thieves-dark-theme)
 ![](https://img.shields.io/github/forks/srteerra/100-thieves-dark-theme)
 
