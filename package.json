@@ -9,6 +9,15 @@
     "categories": [
         "Themes"
     ],
+    "author": {
+        "name": "Angel Lopez",
+        "email": "srterradev@gmail.com",
+        "url": "https://github.com/srteerra"
+    },
+    "repository": {
+        "url": "https://github.com/srteerra/100-thieves-dark-theme.git",
+        "type": "git"
+    },
     "contributes": {
         "themes": [
             {
