@@ -4,6 +4,7 @@
     "description": "This is a fan theme based on 100 Thieves design.",
     "publisher": "srteerra",
     "license": "MIT",
+    "icon": "logo-icon.jpg",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.67.0"
